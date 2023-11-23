@@ -41,4 +41,4 @@ It provides additional details of the product in the results such as brand and c
 
 <!-- You may now delete and modify the content of this file -->
 <br>It was very fun playing this game. I played it multiple times already and additionally, it allowed me to train my eye.</br>
-<img align="top" width="300px" src="../../assets/Pictures_for_exercises/Its_Centered_That_Day1.jpg">
+<img align="top" width="300px" src="../../assets/Pictures_for_exercises/Its_Centered_That_Day1.png">
