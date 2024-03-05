@@ -9,7 +9,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
     https://www.figma.com/file/bDv1YSSBWYqOiDZU0964Mj/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=RnZhm93eVJLUYWpk-1
 
 - A sneak peek of your wireframe clone to give us a glimpse of your creation
-    <img align="right" width="250px" src="../../Pictures_for_exercises/Lo-fi asset.jpg">    
+    <img align="right" width="250px" src="assets\Pictures_for_exercises\Lo-fi asset.jpg">    
 
 Ready to include your output for **Day 7**? Let the customization begin! 🚀✨
 
